@@ -33,6 +33,6 @@ https://youtu.be/2YfW8VDSvZo
 
 
 # Possible Improvements
-        This model is implemented using Nvidia 840M with 4GB memory, so the frame rate is very less.For getting better frame rates we can use Nvidia Titan X or Nvidia 1080Ti.By using these graphic cards we can double the frame rate of the present Scenario.
-        Right Now only 80 common objects can be detected, but if we train this on multiple datasets then we can increase the types of objects detetected.    
+ This model is implemented using Nvidia 840M with 4GB memory, so the frame rate is very less.For getting better frame rates we can use Nvidia Titan X or Nvidia 1080Ti.By using these graphic cards we can double the frame rate of the present Scenario.
+ Right Now only 80 common objects can be detected, but if we train this on multiple datasets then we can increase the types of objects detetected.    
         
