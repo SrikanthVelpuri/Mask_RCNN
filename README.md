@@ -22,7 +22,7 @@
 Here is the sample video of instance segmentation of objects using Mask-RCNN
 https://youtu.be/2YfW8VDSvZo
 
-Sample of this video tested on Busy Indian Roads : https://www.youtube.com/watch?v=o6XQ79yozO8
+This model tested on Busy Indian Roads : https://www.youtube.com/watch?v=o6XQ79yozO8
 
 ### Sample Images tested using Mask-RCNN
 
