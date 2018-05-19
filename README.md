@@ -32,11 +32,6 @@ Sample video of this model tested on Busy Indian Roads : https://www.youtube.com
 ![indianroads](https://user-images.githubusercontent.com/19996897/38748438-b3b56614-3f6b-11e8-9e8f-eacca943e460.png)
 ![indianroad1](https://user-images.githubusercontent.com/19996897/38748442-b716ca46-3f6b-11e8-8f19-a09786e36ffa.png)
 
-
-Here is the sample video of instance segmentation of objects using Mask-RCNN
-https://youtu.be/2YfW8VDSvZo
-
-
 # Possible Improvements
  This model is implemented using Nvidia 840M with 4GB memory, so the frame rate is very less.For getting better frame rates we can use Nvidia Titan X or Nvidia 1080Ti.By using these graphic cards we can double the frame rate of the present Scenario.
  Right Now only 80 common objects can be detected, but if we train this on multiple datasets then we can increase the types of objects detetected.    
